@@ -1,0 +1,2 @@
+python nbconvert --to markdown README.ipynb
+
