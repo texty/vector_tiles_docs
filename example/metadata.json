@@ -1,0 +1,14 @@
+{
+    "name": "example_tile.mbtiles", 
+    "generator": "tippecanoe v1.34.2", 
+    "format": "pbf", 
+    "generator_options": "tippecanoe -o example_tile.mbtiles -z12 -Z4 --coalesce-densest-as-needed --generate-ids example_4326.geojson", 
+    "description": "example_tile.mbtiles", 
+    "json": "{\"vector_layers\": [ { \"id\": \"example_4326\", \"description\": \"\", \"minzoom\": 4, \"maxzoom\": 12, \"fields\": {} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"example_4326\",\"count\": 9,\"geometry\": \"Point\",\"attributeCount\": 0,\"attributes\": []}]}}", 
+    "bounds": "28.663330,48.850258,34.068604,50.798991", 
+    "minzoom": "4", 
+    "version": "2", 
+    "maxzoom": "12", 
+    "type": "overlay", 
+    "center": "30.454102,50.373488,12"
+}
